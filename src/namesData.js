@@ -1,1 +1,1 @@
-export default ["John", "Smith", "Alice", "Bob", "Peter"];
+["John", "Smith", "Alice", "Bob", "Peter"];
